@@ -1,2 +1,5 @@
-genai
-dotenv
+# Ignore the environment file
+.env
+
+# Optional: Ignore entire folder if needed
+genai/
