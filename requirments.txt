@@ -6,3 +6,4 @@ langchain-text-splitters
 langchain_openai
 faiss-cpu
 langchain_chroma
+streamlit 
