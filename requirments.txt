@@ -7,3 +7,4 @@ langchain_openai
 faiss-cpu
 langchain_chroma
 streamlit 
+langchain_groq
