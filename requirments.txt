@@ -11,3 +11,4 @@ langchain_groq
 fastapi
 uvicorn
 langserve
+langchain_huggingface
