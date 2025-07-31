@@ -12,3 +12,5 @@ fastapi
 uvicorn
 langserve
 langchain_huggingface
+arxiv
+wikipedia
